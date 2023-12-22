@@ -1,0 +1,17 @@
+@Article{Teufel2022,
+author={Teufel, Felix
+and G{\'i}slason, Magn{\'u}s Halld{\'o}r
+and Johansen, Alexander Rosenberg
+and Almagro Armenteros, Jos{\'e} Juan
+and Winther, Ole
+and Nielsen, Henrik},
+title={GraphPart: homology partitioning for biological sequence analysis},
+journal={NAR genomics and bioinformatics},
+year={2023},
+month={Dec},
+day={01},
+abstract={When splitting biological sequence data for the development and testing of predictive models, it is necessary to avoid too-closely related pairs of sequences ending up in different partitions. If this is ignored, performance of prediction methods will tend to be overestimated. Several algorithms have been proposed for homology reduction, where sequences are removed until no too-closely related pairs remain. We present GraphPart, an algorithm for homology partitioning that divides the data such that closely related sequences always end up in the same partition, while keeping as many sequences as possible in the dataset. Evaluation of GraphPart on Protein, DNA and RNA datasets shows that it is capable of retaining a larger number of sequences per dataset, while providing homology separation on a par with reduction approaches.}
+issn={2631-9268},
+doi={10.1093/nargab/lqad088},
+url={https://doi.org/10.1093/nargab/lqad088}
+}
