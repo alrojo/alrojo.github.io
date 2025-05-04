@@ -1,0 +1,6 @@
+@article{sridhar2025td,
+  title={TD (0) Learning converges for Polynomial mixing and non-linear functions},
+  author={Sridhar, Anupama and Johansen, Alexander},
+  journal={arXiv preprint arXiv:2502.05706},
+  year={2025}
+}
